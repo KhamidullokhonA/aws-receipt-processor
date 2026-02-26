@@ -133,8 +133,8 @@ The system sends a formatted HTML email containing:
 
 ## 👤 Author
 
-**Khamid**  
-[GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourusername)
+**Khamidullokhon A**  
+[GitHub](https://github.com/KhamidullokhonA) · [LinkedIn](https://www.linkedin.com/in/khamidullokhona/)
 
 ## 📄 License
 
